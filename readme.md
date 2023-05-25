@@ -6,8 +6,6 @@
 
 Cannot be null
 
-Length more than 3
-
 
 ### name :
 
